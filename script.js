@@ -3,7 +3,7 @@ let Adrian = {
     secondName: "Deatcu",
     age: 34
 }
-Adrian.firstName = "Ionut";
+    Adrian.firstName = "Ionut";
 let firstName = "matrix";
 Adrian[firstName] = "Casuta";
 console.log(Adrian);
